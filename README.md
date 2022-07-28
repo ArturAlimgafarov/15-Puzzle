@@ -6,10 +6,15 @@ This project was developed at the end of 1st semester at the _USATU_ (specialty 
 ## Gameplay
 
 1. Menu
+
 ![Menu](menu.png)
 
+
 2. Playing
+
 ![Table](table.png)
 
+
 3. End Game
-![End Game](end game.png)
+
+![End Game](end_game.png)
