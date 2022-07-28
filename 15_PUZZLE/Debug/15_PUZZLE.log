@@ -1,0 +1,4 @@
+﻿  15_PUZZLE.cpp
+C:\Users\artur\source\repos\15_PUZZLE\15_PUZZLE\15_PUZZLE.cpp(25,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artur\source\repos\15_PUZZLE\15_PUZZLE\15_PUZZLE.cpp(148): warning C4715: puzzle_model: значение возвращается не при всех путях выполнения
+  15_PUZZLE.vcxproj -> C:\Users\artur\source\repos\15_PUZZLE\Debug\15_PUZZLE.exe
